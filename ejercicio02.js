@@ -7,6 +7,10 @@
 // No modificar
 // Exporta la función para que pueda ser utilizada en otros archivos
 // Como ves, tu función debe tener el nombre obtenerPI
+function obtenerPI() {
+    return 3.141;
+}
+
 module.exports = {
     obtenerPI
 };
